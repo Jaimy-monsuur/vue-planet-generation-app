@@ -1,3 +1,6 @@
+# Planet generation app
+https://vue-planet-generation-app.onrender.com/
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
